@@ -31,25 +31,7 @@ IntelliMatch-AI-Internship-Recommendation-System/
 └── assets/
 ```
 
-## ⚙️ Installation
 
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/IntelliMatch-AI-Internship-Recommendation-System.git
-cd IntelliMatch-AI-Internship-Recommendation-System
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the application
-
-```bash
-python -m streamlit run app.py
 ```
 
 ## 🎯 How It Works
