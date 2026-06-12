@@ -1,3 +1,4 @@
+
 # IntelliMatch AI – Internship Recommendation System
 
 An AI-powered internship recommendation system that helps students discover internships aligned with their skills, interests, and qualifications.
@@ -21,33 +22,22 @@ An AI-powered internship recommendation system that helps students discover inte
 
 ## 📂 Project Structure
 
-```
+```text
 IntelliMatch-AI-Internship-Recommendation-System/
 │
 ├── app.py
 ├── internship_dataset_cleaned_ready_for_training.csv
 ├── requirements.txt
-├── README.md
-└── assets/
-```
-
-
+└── README.md
 ```
 
 ## 🎯 How It Works
 
 1. Loads and preprocesses internship data.
 2. Collects user skills and preferences.
-3. Matches profiles using recommendation logic.
-4. Displays personalized internship recommendations.
-
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* User Input Section
-* Recommendation Results
+3. Matches candidate profiles using recommendation logic.
+4. Generates personalized internship recommendations.
+5. Displays the results through an interactive Streamlit interface.
 
 ## 🔮 Future Enhancements
 
@@ -59,14 +49,8 @@ Add screenshots of:
 
 ## 🤝 Contributing
 
-Contributions and suggestions are welcome. Feel free to fork this repository and submit a pull request.
+Contributions, suggestions, and improvements are welcome.
 
 ## 📜 License
 
 This project is developed for educational and learning purposes.
-
----
-
-### Resume Description
-
-Developed an AI-based internship recommendation system using Python, Streamlit, and machine learning techniques to provide personalized internship suggestions based on user skills and preferences. Implemented data preprocessing, recommendation logic, and an interactive web interface to enhance user experience.
